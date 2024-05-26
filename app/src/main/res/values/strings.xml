@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cafe Finder</string>
+    <string name="coffee_shop">Coffee Shop</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="parks">Parks</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="Coffee1">The Roastery Coffee House</string>
+    <string name="Coffee2">Autumn Leaf Cafe</string>
+    <string name="Coffee3">The Gallery Cafe</string>
+    <string name="Coffee4">Driven Cafe</string>
+    <string name="Restaurant1">Restaurant1</string>
+    <string name="Restaurant2">Restaurant2</string>
+    <string name="Restaurant3">Restaurant3</string>
+    <string name="Restaurant4">Restaurant4</string>
+    <string name="Park1">Park1</string>
+    <string name="Park2">Park2</string>
+    <string name="Park3">Park3</string>
+
+    <string name="Park4">Park4</string>
+    <string name="back_button">Back Button</string>
+
+    <string name="Coffee1_name">The Roastery Coffee House</string>
+    <string name="Coffee2_name">Autumn Leaf Cafe</string>
+    <string name="Coffee3_name">The Gallery Cafe</string>
+    <string name="Coffee4_name">Driven Cafe</string>
+    <string name="Coffee1_description">Bungalow-turned-Cafe, this is a cosy little establishment tucked away from the busier roads of the city. The ambience is very home-like and spells out tranquillity through its plain white walls. And if you like to dine in the lap of nature, a well-maintained garden awaits you in the backyard. The menu offers a plethora of options apart from the coffee which is roasted and brewed in-house. Coffees from the  sections especially are a must try. Drop in by 10 AM for a scrumptious breakfast.</string>
+    <string name="Coffee2_description">A cafe that doesn\'t feel like a cafe - true to its name, you will get the feeling of being seated in an area filled with autumn greenery. A quiet courtyard of a bungalow, if you will. With distressed, mismatched furniture and artefacts adorning every nook and cranny of this place, it almost gives out Bohemian vibes. Their brunch menu is diverse. You may opt for indoor seating as well if the weather gods are too harsh. Impressively, they have a neat little solution for that - mist spraying table fans.</string>
+    <string name="Coffee3_description">Sit back, relax and have a good time at this quaint little art gallery-cum-cafe if you are looking for a casual yet soothing vibe. The decor is minimalistic, and the art pieces speak for themselves against the serene white walls. They even provide stationery to diners to create their masterpieces. And here\'s some respite for vegetarians in the meat-loving city of Hyderabad: this place serves pure vegetarian food.</string>
+    <string name="Coffee4_description">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted!</string>
+    <string name="open_in_maps">Get location in Google Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
